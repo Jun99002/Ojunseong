@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: #f9f9f9;
+    --main-text-color: #333;
+    --sidebar-bg-color: #000;
+    --sidebar-text-color: #fff;
+    --highlight-color: #444;
+    --font-family: 'Roboto', sans-serif;
+    --primary-font-weight: 300;
+    --secondary-font-weight: 400;
+    --heading-font-weight: 700;
+    --content-box-bg-color: #ffffff;
+    --content-box-padding: 20px;
+    --content-box-border-radius: 10px;
+    --content-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
